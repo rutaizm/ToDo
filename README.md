@@ -1,1 +1,1 @@
-# ToDo
+Тренировка Redux + Bootstrap
